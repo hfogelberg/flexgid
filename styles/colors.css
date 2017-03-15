@@ -1,0 +1,52 @@
+[class*='color-'] {
+  height: 4em;
+  margin-bottom: 1em;
+}
+
+.color-red {
+  background-color: red;
+}
+
+.color-blue {
+  background-color: blue;
+}
+
+.color-green {
+  background-color: green;
+}
+
+.color-pink {
+  background-color: pink
+}
+
+.color-orange {
+  background-color: orange;
+}
+
+.color-purple {
+  background-color: purple;
+}
+
+.color-black {
+  background-color: black;
+}
+
+.color-black h2 {
+  color: white;
+}
+
+.color-gold {
+  background-color: gold;
+}
+
+.color-silver {
+  background-color: silver;
+}
+
+.color-white {
+  background-color: white;
+}
+
+.color-yellow {
+  background-color: yellow;
+}
