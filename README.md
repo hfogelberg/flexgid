@@ -1,6 +1,6 @@
 # Flexgrid
 
-Flexgrid is a lightweight, responsive grid Layout using Flexbox.
+Flexgrid is a lightweight, responsive grid Layout using Flexbox. See the [live example](https://flexgrid-ooqcloswib.now.sh).
 
 ## Installation
 Currently the only option is to downloador copy/paste the file flexgrid.css.
