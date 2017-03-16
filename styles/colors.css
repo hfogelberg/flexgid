@@ -1,52 +1,24 @@
 [class*='color-'] {
-  height: 4em;
+  height: 3em;
   margin-bottom: 1em;
 }
 
 .color-red {
-  background-color: red;
+  background-color: #c0392b;
 }
 
 .color-blue {
-  background-color: blue;
+  background-color: #2980b9;
 }
 
 .color-green {
-  background-color: green;
-}
-
-.color-pink {
-  background-color: pink
+  background-color: #2ecc71;
 }
 
 .color-orange {
-  background-color: orange;
-}
-
-.color-purple {
-  background-color: purple;
-}
-
-.color-black {
-  background-color: black;
-}
-
-.color-black h2 {
-  color: white;
-}
-
-.color-gold {
-  background-color: gold;
-}
-
-.color-silver {
-  background-color: silver;
-}
-
-.color-white {
-  background-color: white;
+  background-color: #e67e22;
 }
 
 .color-yellow {
-  background-color: yellow;
+  background-color: #f1c40f;
 }
